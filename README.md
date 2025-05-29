@@ -82,6 +82,11 @@ function App() {
           <button onClick={nextImage}>Next</button>
         </div>
       </div>
+      <div>
+        <footer>
+          SARANYA S. (212223220101). ALL RIGHTS RESERVED!.
+        </footer>
+      </div>
     </div>
   );
 }
